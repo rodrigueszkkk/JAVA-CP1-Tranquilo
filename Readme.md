@@ -6,15 +6,15 @@
 * Leandro Guarido - RM561760
 
 ## 🎯 Sobre o Projeto
-[cite_start]Este projeto foi desenvolvido para a disciplina de Java Advanced da FIAP[cite: 1, 3]. [cite_start]O objetivo é demonstrar o mapeamento objeto-relacional utilizando JPA e Hibernate [cite: 31][cite_start], além de utilizar a API Reflection para gerar instruções SQL dinamicamente[cite: 30]. [cite_start]A estratégia de herança escolhida foi a `JOINED` com a criação de uma classe para um funcionário sênior[cite: 20].
+[_start]Este projeto foi desenvolvido para a disciplina de Java Advanced da FIAP. O objetivo é demonstrar o mapeamento objeto-relacional utilizando JPA e Hibernate, além de utilizar a API Reflection para gerar instruções SQL dinamicamente. [_start]A estratégia de herança escolhida foi a `JOINED` com a criação de uma classe para um funcionário sênior.
 
 ---
 
 ## 📸 Evidências de Teste (CRUD e Reflection)
-[cite_start]Abaixo estão as comprovações de cada etapa executada no console do IntelliJ e refletidas no banco de dados Oracle SQL Developer[cite: 31, 38, 39].
+[_start]Abaixo estão as comprovações de cada etapa executada no console do IntelliJ e refletidas no banco de dados Oracle SQL Developer.
 
 ### 1. Geração de SQL via Reflection e Execução no IDE
-[cite_start]*(Nesta imagem, demonstramos a geração dinâmica do SELECT via anotação @Tabela, além dos logs do Hibernate realizando as operações de banco [cite: 29, 37])*
+[_start]*(Nesta imagem, demonstramos a geração dinâmica do SELECT via anotação @Tabela, além dos logs do Hibernate realizando as operações de banco)*
 <br>
 <img width="628" height="826" alt="Console Print 1" src="https://github.com/user-attachments/assets/e3e8f253-f8ba-4c61-b1fb-1836c043744e" />
 <br>
