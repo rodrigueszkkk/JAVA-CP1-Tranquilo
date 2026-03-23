@@ -13,29 +13,14 @@ Este projeto foi desenvolvido para a disciplina de Java Advanced da FIAP. O obje
 ## 📸 Evidências de Teste (CRUD e Reflection)
 Abaixo estão as comprovações de cada etapa executada no console do IntelliJ e refletidas no banco de dados Oracle SQL Developer.
 
-### 1. Geração de SQL via Reflection
-*(Arraste e solte aqui a imagem do console mostrando o `SELECT * FROM TAB_FUNCIONARIO` gerado pela classe GeradorSQL)*
+### Geração de SQL via Reflection
+<img width="628" height="826" alt="Print1" src="https://github.com/user-attachments/assets/e3e8f253-f8ba-4c61-b1fb-1836c043744e" />
 
-### 2. CREATE (Inserção de Dados)
-**Execução no IDE:**
-*(Arraste e solte aqui a imagem do console com o `Hibernate: insert into...`)*
+<img width="489" height="767" alt="Print2" src="https://github.com/user-attachments/assets/69cd132b-6004-4e38-9d0a-2423de45b5ac" />
 
-**Modificação no Banco de Dados:**
-*(Arraste e solte aqui aquele primeiro print do Oracle mostrando a tabela com suas 160 horas)*
+**Modificações no Banco de Dados:**
+<img width="478" height="511" alt="Print3" src="https://github.com/user-attachments/assets/3db5c1f0-706e-4b84-9be1-a50593bc7739" />
 
-### 3. READ (Leitura e Sobrescrita de Método)
-*(Arraste e solte aqui a imagem do console mostrando o Select e o print `[SÊNIOR] Nome: Kaiky | Salário...`)*
+<img width="288" height="313" alt="Print4" src="https://github.com/user-attachments/assets/8bfe0f0c-1b34-4ab2-9a8e-f39c0ee52a55" />
 
-### 4. UPDATE (Atualização de Dados)
-**Execução no IDE:**
-*(Arraste e solte aqui a imagem do console com o `Hibernate: update...`)*
-
-**Modificação no Banco de Dados:**
-*(Arraste e solte aqui a imagem do Oracle mostrando a atualização das horas)*
-
-### 5. DELETE (Remoção de Dados)
-**Execução no IDE:**
-*(Arraste e solte aqui a imagem do console com o `Hibernate: delete...`)*
-
-**Modificação no Banco de Dados:**
-*(Arraste e solte aqui o último print que você tirou do Oracle, mostrando a tabela vazia)*
+<img width="336" height="378" alt="Print5" src="https://github.com/user-attachments/assets/80e90efc-dede-4e4f-999a-81a4d6550425" />
